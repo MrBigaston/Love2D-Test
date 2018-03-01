@@ -1,0 +1,1 @@
+"E:\Program Files\LOVE\love.exe" "E:\bigas\Desktop\GameDev love"
