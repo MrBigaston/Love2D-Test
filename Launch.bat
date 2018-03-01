@@ -1,1 +1,1 @@
-"E:\Program Files\LOVE\love.exe" "E:\bigas\Desktop\GameDev love"
+"E:\Program Files\LOVE\love.exe" "E:\bigas\Documents\GitHub\Love2D-Test"
